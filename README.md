@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BayoAI
-- 👀 I’m interested in ...Python and Machine learning
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Programming and Machine learning
+- 🌱 I’m currently learning ...JavaScript
+- 💞️ I’m looking to collaborate on ...Software Projects
 - 📫 How to reach me ...Here
 
 <!---
